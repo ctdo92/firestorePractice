@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirestoreProject</string>
+    <string name="editTextHintTitle">Enter a title</string>
+    <string name="editTextHintDescription">Enter a description</string>
+    <string name="buttonSaveText">Add Note to DB</string>
+    <string name="loadButton">Load Note from DB</string>
+    <string name="update_title_button">Update title</string>
+    <string name="delete_description">Delete description</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="priority">Priority</string>
+</resources>
